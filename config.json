@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerferify",
+        "uuid": 11373835,
+        "checksum": "zr7j4s"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
